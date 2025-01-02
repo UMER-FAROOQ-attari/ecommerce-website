@@ -1,3 +1,2 @@
 # ecommerce-website
-## Author:
-**Umer Farooq**
+## Author:**Umer Farooq**
